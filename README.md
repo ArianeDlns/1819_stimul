@@ -18,7 +18,7 @@ D’autre part, la transmission de nos compétences à Stimul pour leur permettr
 
 ## Organisation du repot:
 
-Noteboks: nos codes sous format de .ipynb. 
+Noteboks: nos codes sous format de .ipynb. <br>
 Rapport: un rapport pdf qui détaille l’utilisation et les résultats de nos programmes.
 
 
