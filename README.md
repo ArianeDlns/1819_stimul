@@ -2,7 +2,7 @@
 
 Repository git du projet Stimul année 2019 Février à Juin.
 
-Equipe : Hugo Cohen, Ariane Dalens, Jianxiang Gao, Guillaume Kunsch, Félix Motte.
+Equipe : Hugo Cohen, Ariane Dalens, Jianxiang Gao, Guillaume Kunsch, Félix Motte
 Mentor : Quentin Retourne
 Stimul : Etienne Dormeuil
 Sous la tutelle de Latitudes
