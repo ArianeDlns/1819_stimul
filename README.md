@@ -2,11 +2,10 @@
 
 Repository git du projet Stimul année 2019 Février à Juin.
 
-Equipe : Hugo Cohen, Ariane Dalens, Jianxiang Gao, Guillaume Kunsch, Félix Motte
-Mentor : Quentin Retourne
-Stimul : Etienne Dormeuil
-Sous la tutelle de Latitudes
-
+Equipe : Hugo Cohen, Ariane Dalens, Jianxiang Gao, Guillaume Kunsch, Félix Motte＜/br＞
+Mentor : Quentin Retourne＜/br＞
+Stimul : Etienne Dormeuil＜/br＞
+Sous la tutelle de Latitudes＜/br＞
 
 
 ## Contexte:
@@ -25,8 +24,8 @@ Rapport: un rapport pdf qui détaille l’utilisation et les résultats de nos p
 
 ## Contact:
 
-Guillaume Kunsch | guillaume.kunsch@student.ecp.fr
-Ariane Dalens | ariane.dalens@student.ecp.fr
-Jianxiang Gao | jianxiang.gao@student.ecp.fr
-Félix Motte | felix.motte@student.ecp.fr
-Hugo Cohen | hugo.cohen@student.ecp.fr
+Guillaume Kunsch | guillaume.kunsch@student.ecp.fr＜/br＞
+Ariane Dalens | ariane.dalens@student.ecp.fr＜/br＞
+Jianxiang Gao | jianxiang.gao@student.ecp.fr＜/br＞
+Félix Motte | felix.motte@student.ecp.fr＜/br＞
+Hugo Cohen | hugo.cohen@student.ecp.fr＜/br＞
