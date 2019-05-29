@@ -1,6 +1,6 @@
 # 1819_stimul
 
-Repository git du projet Stimul année 2019 Février à Juin.
+Projet Stimul année 2019 Février à Juin.
 
 Equipe : Hugo Cohen, Ariane Dalens, Jianxiang Gao, Guillaume Kunsch, Félix Motte <br>
 Mentor : Quentin Retourne <br>
@@ -16,10 +16,15 @@ On peut décomposer le but du projet en 2 grandes parties. D’une part, la réa
 D’autre part, la transmission de nos compétences à Stimul pour leur permettre d’effectuer eux-mêmes leurs analyses dans le futur. Cela passera à la fois par la connaissance des outils utilisés (Python, pandas, numpy, …) ainsi que les codes utilisés. 
 
 
-## Organisation du repot:
+## Organisation du repository:
 
 Noteboks: nos codes sous format de .ipynb. <br>
 Rapport: un rapport pdf qui détaille l’utilisation et les résultats de nos programmes.
+
+
+## Sommaire:
+
+Au travers de notre étude nous avons mis en évidence certaines corrélations entre différents features grâce à la matrice de corrélation, exploré les données par cohortes pour analyser la variance qui existe entre les cohortes et grâce à une étude de la temporalité observer un phénomène de "progression de groupe" aussi bien au niveau des KPIs que de l'implication dans le programme observé dans les fichier .json.
 
 
 ## Contact:
